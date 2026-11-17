@@ -30,6 +30,9 @@ student records.
 ## Assumptions
 
 - The demo covers one semester and uses fictional student and course records.
+- Students register during the semester's registration period and can drop
+  sections during the allowed drop period. The weekly timetable shows when
+  their enrolled classes meet each week.
 - Students sign in using demo accounts. Their completed courses are already
   recorded in the system.
 - A course can have multiple sections with different meeting times and
