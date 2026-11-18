@@ -74,3 +74,12 @@ appears on her timetable.
 The first increment, `v0.1.0-design`, focuses on demo sign-in and course
 search. The diagrams also show where registration, dropping sections, and
 the timetable will fit in later increments.
+
+### Sign-in and course search flows
+
+- **FR-01 · Sign-in** — Leen enters her demo account details. If they’re
+  correct, the website opens the course catalog. If sign-in fails, it
+  shows a message and lets her try again.
+- **FR-02 · Course search** — Leen searches by course name or code. The
+  catalog shows matching sections, meeting times, and available seats.
+  If nothing matches, it shows a message.
