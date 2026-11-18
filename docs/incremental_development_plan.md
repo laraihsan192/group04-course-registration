@@ -18,7 +18,7 @@ once those files are added to the repository.
 
 | Version | Type | Capability / Scope | Deliverable / Evidence | Requirements / Design Links |
 | --- | --- | --- | --- | --- |
-| `v0.1.0-design` | Design | Demo sign-in and course search | Sign-in and search flows, course and section data model | FR-01–02 · [Architecture](architecture.md), [Use cases](../uml/use_cases.md), [Data model](../uml/data_model.mmd) |
+| `v0.1.0-design` | Design | Demo sign-in and course search | Sign-in and search flows, course and section data model | FR-01–02 · [Architecture](architecture.md), [Use cases](../uml/use_cases.md), [Data model](../uml/data_model.md) |
 | `v0.1.0` | Working | Demo sign-in and course search | Sign-in and search demo, passing tests run by the coding agent | FR-01–02 · [Accounts](../src/accounts/), [Catalog](../src/catalog/), [Tests](../tests/test_auth_catalog.py) |
 | `v0.2.0-design` | Design | Section registration and enrollment checks | Registration flow with success and rejection paths | FR-03–06, NFR-01 (enrollment access), NFR-02 · [Registration sequence](../uml/register_sequence.md) |
 | `v0.2.0` | Working | Section registration and enrollment checks | Registration demo, passing enrollment and last-seat tests run by the coding agent | FR-03–06, NFR-01 (enrollment access), NFR-02 · [Enrollment](../src/enrollment/), [Tests](../tests/test_registration.py) |
