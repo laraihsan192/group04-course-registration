@@ -37,3 +37,19 @@ We use GitHub for version control, Markdown for documentation, and Mermaid for d
 
 - [v0.1.0-design](https://github.com/laraihsan192/group04-course-registration/releases/tag/v0.1.0-design) — Reviewed design for demo sign-in and course search.
 - `v0.1.0` — Planned working version of demo sign-in and course search.
+
+## Contributions
+
+We worked together on the project scope, requirements, incremental plan,
+architecture, and diagrams. We also reviewed the design documents and
+prepared the first design checkpoint as a group. Team members used the
+GitHub accounts below to record commits for the shared work.
+
+| GitHub account | Commits on `main` before this update |
+| --- | ---: |
+| `laraihsan192` | 6 |
+| `leenhasannn` | 5 |
+| `leenhus` | 4 |
+| `leennbitar` | 3 |
+
+The counts exclude merge commits.
