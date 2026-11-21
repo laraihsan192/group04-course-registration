@@ -1,4 +1,3 @@
-
 # University Course Registration System
 
 **Group 04 · Section 2**  
@@ -7,35 +6,34 @@
 
 ## Team members
 
-| Name | Student ID |
-| --- | --- |
-| Lara Ihssan Toma | 20230811 |
-| Leen Munther Hasan | 20230333 |
-| Leen Tawfiq Hosary | 20230622 |
-| Leen Wael Albitar | 20230147 |
+- Lara Ihssan Toma 20230811
+- Leen Munther Hasan 20230333
+- Leen Tawfiq Hosary 20230622
+- Leen Wael Albitar 202030147
 
 ## Project overview
 
-We’re building a website that helps students find course sections and plan
-their timetable for the semester. Students can search for courses by name
-or code, compare sections, and register during the semester’s registration
-period. Before confirming an enrollment, the website checks prerequisites,
-seat availability, and timetable conflicts.
+We’re building a web app that helps students plan their semester timetable. Students will be able to search for courses by name or code, compare sections, and register during the semester’s registration period. Before confirming enrollment, the app will check prerequisites, seat availability, and timetable conflicts.
 
-In the final demo, a student will sign in, find a section, register for it,
-and see it on their timetable. They’ll also be able to drop the section
-during the allowed drop period. The demo uses fictional student and course
-records for one semester.
+In the final demo, a student will sign in, find a section, register for it, and see it on their timetable. They’ll also be able to drop the section during the allowed drop period. The demo will use fictional student and course records for one semester.
 
 ## Tools
 
-We use GitHub to manage the project and Markdown to write the documentation.
-We plan to use Mermaid for diagrams and a coding agent for implementation.
+We use GitHub for version control, Markdown for documentation, and Mermaid for diagrams. We plan to use a coding agent for implementation and testing.
+
+## Architecture and diagrams
+
+- [System architecture](docs/architecture.md) — C4 context and container views, plus the main application components.
+- [Use case diagram](uml/use_cases.md) — What a student can do in the app.
+- [Registration sequence diagram](uml/register_sequence.md) — What happens after a student requests a seat.
+- [Course and section data model](uml/data_model.md) — How courses, sections, and meeting times are related.
 
 ## Repository structure
 
-The `docs/` folder contains the project documentation.
+- `docs/` contains the [project description](docs/project_description.md), [requirements](docs/requirements.md), [incremental plan](docs/incremental_development_plan.md), architecture, traceability matrix, and AI development log.
+- `uml/` contains the editable project diagrams.
 
-- [Project description and assumptions](docs/project_description.md)
-- [Requirements](docs/requirements.md)
-- [Incremental development plan](docs/incremental_development_plan.md)
+## Incremental development
+
+- [v0.1.0-design](https://github.com/laraihsan192/group04-course-registration/releases/tag/v0.1.0-design) — Reviewed design for demo sign-in and course search.
+- `v0.1.0` — Planned working version of demo sign-in and course search.
