@@ -40,15 +40,12 @@ We use GitHub for version control, Markdown for documentation, and Mermaid for d
 
 ## Contributions
 
-Lara Ihssan Toma, Leen Munther Hasan, Leen Tawfiq Hosary, and Leen Wael Albitar shared responsibility for the project scope, requirements, incremental plan, architecture, and diagrams. We also reviewed the design documents and
-prepared the first design checkpoint as a group. Team members used the
-GitHub accounts below to record commits for the shared work.
+We worked together on the first design checkpoint. Each team member
+contributed to the following parts of the project.
 
-| GitHub account | Commits on `main` before this update |
-| --- | ---: |
-| `laraihsan192` | 6 |
-| `leenhasannn` | 5 |
-| `leenhus` | 4 |
-| `leennbitar` | 3 |
-
-The counts exclude merge commits.
+| Team member | What they did | Commits |
+| --- | --- | ---: |
+| Lara Ihssan Toma | Defined the project scope and assumptions, drafted the requirements, and created the initial incremental development plan. | 6 |
+| Leen Munther Hasan | Created the course and section data model, updated the architecture and incremental plan, and started the traceability matrix and AI development log. | 5 |
+| Leen Tawfiq Hosary | Drafted the system architecture and created the use case and registration sequence diagrams. | 4 |
+| Leen Wael Albitar | Updated the README, implemented demo sign-in and course search, and added automated tests. | 12 |
