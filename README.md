@@ -40,8 +40,7 @@ We use GitHub for version control, Markdown for documentation, and Mermaid for d
 
 ## Contributions
 
-We worked together on the project scope, requirements, incremental plan,
-architecture, and diagrams. We also reviewed the design documents and
+Lara Ihssan Toma, Leen Munther Hasan, Leen Tawfiq Hosary, and Leen Wael Albitar shared responsibility for the project scope, requirements, incremental plan, architecture, and diagrams. We also reviewed the design documents and
 prepared the first design checkpoint as a group. Team members used the
 GitHub accounts below to record commits for the shared work.
 
