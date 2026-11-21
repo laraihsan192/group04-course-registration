@@ -50,8 +50,8 @@ course records for one semester.
 The student's timetable and the section's seat count stay the same.
 
 **Example** — Leen finds a Data Structures section with an open seat that fits
-her timetable. In our demo, Data Structures requires OOP. If Leen
-hasn't passed OOP, the website tells her she needs to pass it before
+her timetable. In our demo, Data Structures requires Programming I. If Leen
+hasn't passed Programming I, the website tells her she needs to pass it before
 she can register for Data Structures.
 
 ## Use case — Drop a section
