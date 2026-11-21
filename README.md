@@ -49,3 +49,6 @@ contributed to the following parts of the project.
 | Leen Munther Hasan | Created the course and section data model, updated the architecture and incremental plan, and started the traceability matrix and AI development log. | 5 |
 | Leen Tawfiq Hosary | Drafted the system architecture and created the use case and registration sequence diagrams. | 4 |
 | Leen Wael Albitar | Updated the README, implemented demo sign-in and course search, and added automated tests. | 12 |
+
+
+Counts include non-merge commits on main and the sign-in and course-search feature branch before this README update.
