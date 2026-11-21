@@ -9,7 +9,7 @@
 - Lara Ihssan Toma 20230811
 - Leen Munther Hasan 20230333
 - Leen Tawfiq Hosary 20230622
-- Leen Wael Albitar 202030147
+- Leen Wael Albitar 20230147
 
 ## Project overview
 
