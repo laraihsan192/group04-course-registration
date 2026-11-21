@@ -36,8 +36,9 @@ We use GitHub for version control, Markdown for documentation, and Mermaid for d
 ## Incremental development
 
 - [v0.1.0-design](https://github.com/laraihsan192/group04-course-registration/releases/tag/v0.1.0-design) — Reviewed design for demo sign-in and course search.
-- `v0.1.0` — Planned working version of demo sign-in and course search.
+- [Sign-in and course-search prototype](https://github.com/laraihsan192/group04-course-registration/tree/feature/sign-in-course-search) — Extra progress toward `v0.1.0`. All six automated tests passed.
 
+  
 ## Contributions
 
 We worked together on the first design checkpoint. Each team member
